@@ -1,4 +1,4 @@
-# @graphrefly/react
+# @graphrefly/solid
 
 ## 0.1.0
 
